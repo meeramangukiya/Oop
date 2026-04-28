@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class CheckLetter {
+public class pr3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -16,8 +16,9 @@ public class CheckLetter {
             System.out.println("Result: Invalid input");
     }
 }
-*/
+/*
 Enter a single letter: A
 Result: Vowel
   Enter a single letter: b
 Result: Consonant
+    */
