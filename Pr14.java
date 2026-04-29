@@ -1,4 +1,4 @@
-class pr14 {
+class Pr14 {
     int accNo;
     String name;
     double balance;
